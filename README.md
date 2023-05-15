@@ -35,4 +35,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ![Application screenshot](https://sachinpandeygurh.github.io/Alan-news-application/ss/myappscreenshot.png)
 
 
-**Visit the website to see the app in action: [visit now](*).**
+**Visit the website to see the app in action: [visit now](https://news-application-alan-ai.netlify.app/).**
+

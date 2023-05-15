@@ -29,6 +29,10 @@ This project is a React-based application that allows users to interact with Ala
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## Screenshort
 
-![screenshort]
+## Screenshot
+
+![Application screenshot](./ss/myappscreenshot.png)
+
+
+**Visit the website to see the app in action: [visit now](*).**

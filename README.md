@@ -5,7 +5,7 @@ This project is a React-based application that allows users to interact with Ala
 
 ## Technologies Used
 
-- React: A JavaScript library used for building user interfaces.
+- React: A JavaScript library use to create web application.
 - Alan AI SDK: A software development kit that allows developers to integrate Alan AI's voice recognition and natural language processing capabilities into their applications.
 - Material UI: A popular React UI framework that provides pre-built components and styling.
 - Words-to-Numbers: A JavaScript library that converts word-based numbers into their numerical equivalents.
@@ -32,7 +32,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Screenshot
 
-![Application screenshot](./ss/myappscreenshot.png)
+![Application screenshot](https://sachinpandeygurh.github.io/Alan-news-application/ss/myappscreenshot.png)
 
 
 **Visit the website to see the app in action: [visit now](*).**
